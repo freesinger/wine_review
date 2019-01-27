@@ -2,7 +2,7 @@
 ## 1. About
 **A predictive model to identify wines' quality through 10 features.**
 
-Dataset can be download [here](https://www.kaggle.com/zynicide/wine-reviews).
+Dataset can be downloaded [here](https://www.kaggle.com/zynicide/wine-reviews).
 
 The data consists of 10 fields:
 
