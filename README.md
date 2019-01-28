@@ -38,11 +38,11 @@ The data consists of `10` fields:
 
 I used the **winemag-data_first150k.csv** which contains about `150k` samples information.Data encoding and other preprocessing actions can be detailed checked in file **data_preprocess.ipynb**.
 
-There were only `2 different actions` I took in data preprocessing, however, there occured `hug performance gap`  between validation model and test model, which may blame the `feature importance` is accounted for a big propertion durinhg model training.
+There were only 2 different actions I took in data preprocessing, however, there occured hug performance gap between validation model and test model, which may blame the `feature importance` is accounted for a big propertion durinhg model training.
 
 #### **Validation model**
 
-- In validation model, I **drop the `'description'` feature** for the reason I think this contributes nothing to wine quality, which proves to be not proper.
+- In validation model, I drop the `'description'` feature for the reason I think this contributes nothing to wine quality, which proves to be not proper.
 
 - Then I merge `'region 1'` and `'region 2'` to `'region'`.
 
@@ -58,7 +58,7 @@ Results shows that feature engineering is much better in test model, which contr
 
 I chose `Random Forest` and `XGBoost` to validate this 5-classification task.
 
-#### **Randon Forest**
+#### **Randon Forest (ACC: 79.89%)**
 
 - Confusion Matrix:
 
@@ -70,7 +70,7 @@ I chose `Random Forest` and `XGBoost` to validate this 5-classification task.
 
 
 
-#### **XGBoost**
+#### **XGBoost (ACC: 80.83%)**
 
 - Confusion Matrix:
 
