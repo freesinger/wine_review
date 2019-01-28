@@ -48,7 +48,7 @@ There were only 2 different actions I took in data preprocessing, however, there
 
 #### Test model
 
-- In test model, I encode 'decription' to numeric type by the value of length of the description sentence.
+- In test model, I encode `'decription'` to numeric type by the value of length of the description sentence.
 
 - Then I merge `'province'`, `'region 1'` and `'region 2'` to `'region'`.
 
