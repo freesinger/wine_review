@@ -36,7 +36,7 @@ The data consists of `10` fields:
 
 ## 2. Data Preprocess
 
-I used the **winemag-data_first150k.csv** which contains about `150k` samples information.Data encoding and other preprocessing actions can be detailed checked in file [**data_preprocess.ipynb**](./data_preprecess.ipynb) .
+I used the **winemag-data_first150k.csv** which contains about `150k` samples information.Data encoding and other preprocessing actions can be detailed checked in file [**data_preprocess.ipynb**](data_preprecess.ipynb) .
 
 There were only `2 different actions` I took in data preprocessing, however, there occured `hug performance gap`  between validation model and test model, which may blame the `feature importance` is accounted for a big propertion durinhg model training.
 
