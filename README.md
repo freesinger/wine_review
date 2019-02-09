@@ -52,7 +52,7 @@ There were only 2 different actions I took in data preprocessing, however, there
 
 - Then I merge `'province'`, `'region 1'` and `'region 2'` to `'region'`.
 
-Results shows that feature engineering is much better in test model, which contributes to it has about **15 percentage points higer** prediction accuracy than validation model does.
+Results shows that feature engineering is much better in test model, which contributes to it has about **15 percentage points higher** prediction accuracy than validation model does.
 
 ## 3. Modeling
 
