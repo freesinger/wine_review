@@ -1,4 +1,7 @@
 # Wine_Review
+![language](https://img.shields.io/github/languages/top/freesinger/Wine_Review.svg?colorB=red&style=flat)
+![size](https://img.shields.io/github/repo-size/freesinger/Wine_Review.svg?style=flat)
+![status](https://img.shields.io/github/last-commit/freesinger/Wine_Review/master.svg?style=flat)
 
 ## 1. About
 
