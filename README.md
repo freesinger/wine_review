@@ -3,6 +3,7 @@
 ![language](https://img.shields.io/github/languages/top/freesinger/Wine_Review.svg?colorB=red&style=flat)
 ![size](https://img.shields.io/github/repo-size/freesinger/Wine_Review.svg?style=flat)
 ![status](https://img.shields.io/github/last-commit/freesinger/Wine_Review/master.svg?style=flat)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffreesinger%2Fwine_review.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffreesinger%2Fwine_review?ref=badge_shield)
 
 ## 1. About
 
@@ -81,3 +82,7 @@ I chose `Random Forest` and `XGBoost` to validate this 5-classification task.
 - Feature importance:
 
 ![XGBoostFeatImp](images/XGBoostFeatImp.jpg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffreesinger%2Fwine_review.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffreesinger%2Fwine_review?ref=badge_large)
